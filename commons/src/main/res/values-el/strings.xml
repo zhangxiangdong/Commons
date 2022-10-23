@@ -746,7 +746,7 @@
     <string name="other">Άλλα</string>
     <string name="privacy_policy">Πολιτική Απορρήτου</string>
     <string name="version_placeholder">Έκδοση %s</string>
-    <string name="hello">Γεια :)</string>
+    <string name="hello">Γεια ^_^</string>
     <string name="about_footer">Φτιαγμένο με ❤️ στη Σλοβακία</string>
     <string name="additional_info">Πρόσθετες πληροφορίες</string>
     <string name="app_version">Έκδοση εφαρμογής: %s</string>
@@ -769,7 +769,7 @@
     <string name="read_it">Διαβάστε τις</string>
     <string name="read_faq">Συχνές Ερωτήσεις</string>
     <string name="rate_us_prompt">Γειά σας,\n\nφαίνεται ότι χρησιμοποιείτε αυτήν την εφαρμογή ήδη για αρκετό καιρό, και το εκτιμούμε πραγματικά.\n\nΑν μπορούμε να σας ζητήσουμε μια χάρη, παρακαλούμε αξιολογήστε μας στο Google Play. Αυτό θα μας βοηθούσε πολύ.\n\nΑνεξάρτητα τι αποφασίσατε, δεν θα εμφανιστεί ξανά αυτό το μήνυμα.\n\nΕυχαριστούμε!</string>
-    <string name="rate_our_app">Βαθμολογήστε την εφαρμογή μας παρακαλώ :)</string>
+    <string name="rate_our_app">Βαθμολογήστε την εφαρμογή μας παρακαλώ ^_^</string>
     <string name="thank_you">Σας Ευχαριστούμε</string>
     <string name="widget_locked_pro">Το widget είναι κλειδωμένο.\nΠαρακαλώ αναβαθμίστε σε Pro έκδοση, για να το ξεκλειδώσετε.</string>
     <string name="features_locked">Αυτή η λειτουργία είναι κλειδωμένη, παρακαλούμε αγοράστε &lt;a href=https://play.google.com/store/apps/details?id=com.simplemobiletools.thankyou&gt;Simple Thank You&lt;/a&gt; για το ξεκλείδωμα της πλήρους εφαρμογής.&lt;br&gt;&lt;br&gt;Είναι μια εφάπαξ πληρωμή μόνο και αν δεν είστε ικανοποιημένοι, μπορούμε να σας επιστρέψουμε τα χρήματα.</string>
@@ -994,7 +994,7 @@
     <string name="android_lame_title">AndroidLame (mp3 encoder)</string>
     <!-- Google Play listing -->
     <string name="deprecated_app">ΚΑΤΑΡΓΗΣΗ: Αυτή η έκδοση της εφαρμογής δεν υποστηρίζεται πλέον, λάβετε την έκδοση Pro εδώ https://play.google.com/store/apps/details?id=com.simplemobiletools.xxx.pro</string>
-    <string name="pro_app_refund">Μην ξεχνάτε οτι αν απεγκατασταθεί εντός 2 ωρών, θα επιστραφούν αυτόματα τα χρήματα σας. Αν θέλετε επιστροφή χρημάτων οποιαδήποτε στιγμή αργότερα, απλά επικοινωνήστε μαζί μας στο hello@simplemobiletools.com και θα τα λάβετε. Αυτό το κάνει εύκολότερο για να την δοκιμάσετε :)</string>
+    <string name="pro_app_refund">Μην ξεχνάτε οτι αν απεγκατασταθεί εντός 2 ωρών, θα επιστραφούν αυτόματα τα χρήματα σας. Αν θέλετε επιστροφή χρημάτων οποιαδήποτε στιγμή αργότερα, απλά επικοινωνήστε μαζί μας στο hello@simplemobiletools.com και θα τα λάβετε. Αυτό το κάνει εύκολότερο για να την δοκιμάσετε ^_^</string>
     <!-- Description of our developer profile on Google Play, it can have max 140 characters -->
     <string name="developer_description">Μια ομάδα Απλών εφαρμογών Android ανοιχτού κώδικα με προσαρμόσιμα γραφικά στοιχεία, χωρίς διαφημίσεις και περιττές Άδειες.</string>
 </resources>

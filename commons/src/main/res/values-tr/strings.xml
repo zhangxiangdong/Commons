@@ -745,7 +745,7 @@
     <string name="other">Diğer</string>
     <string name="privacy_policy">Gizlilik politikası</string>
     <string name="version_placeholder">Sürüm %s</string>
-    <string name="hello">Merhaba :)</string>
+    <string name="hello">Merhaba ^_^</string>
     <string name="about_footer">❤️ ile Slovakya\'da yapıldı</string>
     <string name="additional_info">Ek bilgiler</string>
     <string name="app_version">Uygulama sürümü: %s</string>
@@ -768,7 +768,7 @@
     <string name="read_it">Oku</string>
     <string name="read_faq">SSS\'yi oku</string>
     <string name="rate_us_prompt">Merhaba,\n\nzaten bir süredir bu uygulamayı kullanıyor gibi görünüyorsunuz ve gerçekten takdir ediyoruz.\n\nSizden bir iyilik isteyebilirsek, lütfen bizi Google Play\'de oylayın. Bu bize gerçekten çok yardımcı olacak.\n\nNasıl karar verirseniz verin, bu mesajı bir daha görmeyeceksiniz.\n\nTeşekkürler!</string>
-    <string name="rate_our_app">Lütfen uygulamamızı oylayın :)</string>
+    <string name="rate_our_app">Lütfen uygulamamızı oylayın ^_^</string>
     <string name="thank_you">Teşekkürler</string>
     <string name="widget_locked_pro">Widget kilitli.\nKilidi açmak için lütfen Pro sürümüne yükseltin.</string>
     <string name="features_locked">Bu özellik kilitlidir, lütfen tam uygulamanın kilidini açmak için &lt;a href=https://play.google.com/store/apps/details\?id=com.simplemobiletools.thankyou&gt;Basit Teşekkürler&lt;/a&gt; uygulamasını satın alın.&lt;br&gt;&lt;br&gt;Bu yalnızca tek seferlik bir ödemedir ve memnun kalmazsanız geri ödeme yapabiliriz.</string>
@@ -987,7 +987,7 @@
     <string name="android_lame_title">AndroidLame (mp3 kodlayıcı)</string>
     <!-- Google Play listing -->
     <string name="deprecated_app">Kullanımdan kaldırıldı: Uygulamanın bu sürümü artık sağlanmıyor, Pro sürümünü şuradan indirin: https://play.google.com/store/apps/details?id=com.simplemobiletools.xxx.pro</string>
-    <string name="pro_app_refund">Ücretli herhangi bir uygulamayı 2 saat içinde kaldırırsanız, otomatik olarak iade edileceğini unutmayın. İstediğiniz zaman geri ödeme almak isterseniz, hello@simplemobiletools.com adresinden bizimle iletişime geçmeniz yeterli olacaktır. Bu denemeyi kolaylaştırır :)</string>
+    <string name="pro_app_refund">Ücretli herhangi bir uygulamayı 2 saat içinde kaldırırsanız, otomatik olarak iade edileceğini unutmayın. İstediğiniz zaman geri ödeme almak isterseniz, hello@simplemobiletools.com adresinden bizimle iletişime geçmeniz yeterli olacaktır. Bu denemeyi kolaylaştırır ^_^</string>
     <!-- Description of our developer profile on Google Play, it can have max 140 characters -->
     <string name="developer_description">Özelleştirilebilir widget\'lara sahip, reklamlar ve gereksiz izinler içermeyen bir grup basit, açık kaynaklı Android uygulaması.</string>
 </resources>

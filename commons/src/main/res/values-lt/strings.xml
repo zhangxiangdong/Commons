@@ -780,7 +780,7 @@
     <string name="other">Kita</string>
     <string name="privacy_policy">Privacy policy</string>
     <string name="version_placeholder">Versija %s</string>
-    <string name="hello">Sveiki :)</string>
+    <string name="hello">Sveiki ^_^</string>
     <string name="about_footer">Sukurta su ❤️ Slovakijoje</string>
     <string name="additional_info">Papildoma informacija</string>
     <string name="app_version">Programėlės versija: %s</string>
@@ -805,7 +805,7 @@
 \nNepaisant to, ką benuspręstumėte, šis pranešimas daugiau nebebus jums rodomas.
 \n
 \nDėkojame!</string>
-    <string name="rate_our_app">Įvertinkite, prašome, mūsų programėlę :)</string>
+    <string name="rate_our_app">Įvertinkite, prašome, mūsų programėlę ^_^</string>
     <string name="thank_you">Ačiū</string>
     <string name="widget_locked_pro">Valdiklis yra užrakintas.
 \nAtsinaujinkite į „Pro“ versiją, norėdami jį atrakinti.</string>
@@ -1000,7 +1000,7 @@
     <string name="android_lame_title">AndroidLame (mp3 encoder)</string>
     <!-- Google Play listing -->
     <string name="deprecated_app">PASENUSI: Ši programėlės versija daugiau nebeprižiūrima, gaukite „Pro“ versiją, adresu https://play.google.com/store/apps/details\?id=com.simplemobiletools.xxx.pro</string>
-    <string name="pro_app_refund">Nepamirškite, jog jeigu per 2 valandas pašalinsite bet kurią mokamą programėlę, jums automatiškai bus grąžinti pinigai. Jei norėsite susigrąžinti pinigus vėliau, susisiekite su mumis el. paštu hello@simplemobiletools.com ir juos atgausite. Tokiu būdu galite lengvai išbandyti programėlę :)</string>
+    <string name="pro_app_refund">Nepamirškite, jog jeigu per 2 valandas pašalinsite bet kurią mokamą programėlę, jums automatiškai bus grąžinti pinigai. Jei norėsite susigrąžinti pinigus vėliau, susisiekite su mumis el. paštu hello@simplemobiletools.com ir juos atgausite. Tokiu būdu galite lengvai išbandyti programėlę ^_^</string>
     <!-- Description of our developer profile on Google Play, it can have max 140 characters -->
     <string name="developer_description">Paprastų, atvirojo kodo „Android“ progamėlių rinkinys su tinkinamais valdikliais, be reklamų ir nereikalingų leidimų.</string>
 </resources>

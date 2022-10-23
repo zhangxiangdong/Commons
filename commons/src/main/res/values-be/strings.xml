@@ -811,7 +811,7 @@
     <string name="other">Іншае</string>
     <string name="privacy_policy">Палітыка прыватнасці</string>
     <string name="version_placeholder">Версія %s</string>
-    <string name="hello">Прывітанне :)</string>
+    <string name="hello">Прывітанне ^_^</string>
     <string name="about_footer">Зроблена з ❤️ у Славакіі</string>
     <string name="additional_info">Дадатковая інфармацыя</string>
     <string name="app_version">Версія праграмы: %s</string>
@@ -836,7 +836,7 @@
 \nНезалежна ад таго, як вы вырашыце, вы больш не ўбачыце гэта паведамленне.
 \n
 \nДзякуй!</string>
-    <string name="rate_our_app">Калі ласка, ацаніце наша дадатак :)</string>
+    <string name="rate_our_app">Калі ласка, ацаніце наша дадатак ^_^</string>
     <string name="thank_you">Дзякуй</string>
     <string name="widget_locked_pro">Віджэт заблакіраваны.\nАбнавіце яго да версіі Pro, каб разблакіраваць яго.</string>
     <string name="features_locked">Гэта функцыя заблакіравана, купіце &lt;a href=https://play.google.com/store/apps/details\?id=com.simplemobiletools.thankyou&gt;Просты дзякуй&lt;/a&gt; за разблакіроўку поўнай праграмы. &lt;br&gt;&lt;br&gt;Гэта аднаразовая аплата, і калі вы не будзеце задаволены, мы можам вярнуць вам грошы.</string>
@@ -1033,7 +1033,7 @@
     <string name="android_lame_title">AndroidLame (кадавальнік mp3)</string>
     <!-- Google Play listing -->
     <string name="deprecated_app">САСТАРЕЛА: гэтая версія праграмы больш не падтрымліваецца, атрымайце версію Pro па адрасе https://play.google.com/store/apps/details\?id=com.simplemobiletools.xxx.pro</string>
-    <string name="pro_app_refund">Не забывайце, што калі вы выдаліце любую платную праграму на працягу 2 гадзін, вам аўтаматычна вернуць грошы. Калі вы хочаце вярнуць грошы ў любы час пазней, проста звяжыцеся з намі па адрасе hello@simplemobiletools.com, і вы атрымаеце іх. Гэта дазваляе лёгка паспрабаваць :)</string>
+    <string name="pro_app_refund">Не забывайце, што калі вы выдаліце любую платную праграму на працягу 2 гадзін, вам аўтаматычна вернуць грошы. Калі вы хочаце вярнуць грошы ў любы час пазней, проста звяжыцеся з намі па адрасе hello@simplemobiletools.com, і вы атрымаеце іх. Гэта дазваляе лёгка паспрабаваць ^_^</string>
     <!-- Description of our developer profile on Google Play, it can have max 140 characters -->
     <string name="developer_description">Група простых праграм для Android з адкрытым зыходным кодам і віджэтамі, якія можна наладзіць, без рэкламы і непатрэбных дазволаў.</string>
 </resources>

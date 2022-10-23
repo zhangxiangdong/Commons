@@ -3,6 +3,8 @@ package com.simplemobiletools.commons.samples.activities
 import android.os.Bundle
 import com.simplemobiletools.commons.activities.BaseSimpleActivity
 import com.simplemobiletools.commons.extensions.appLaunched
+import com.simplemobiletools.commons.helpers.*
+import com.simplemobiletools.commons.models.FAQItem
 import com.simplemobiletools.commons.samples.BuildConfig
 import com.simplemobiletools.commons.samples.R
 import kotlinx.android.synthetic.main.activity_main.*
@@ -23,6 +25,15 @@ class MainActivity : BaseSimpleActivity() {
 
         main_color_customization.setOnClickListener {
             startCustomizationActivity()
+        }
+
+        about.setOnClickListener {
+            val licenses = LICENSE_GLIDE or LICENSE_PATTERN or LICENSE_REPRINT or LICENSE_GESTURE_VIEWS or LICENSE_PDF_VIEWER or LICENSE_AUTOFITTEXTVIEW
+            val faqItems = arrayListOf(
+                FAQItem(R.string.faq_3_title_commons, R.string.faq_3_text_commons),
+                FAQItem(R.string.faq_9_title_commons, R.string.faq_9_text_commons)
+            )
+            startAboutActivity(R.string.smtco_app_name, licenses, BuildConfig.VERSION_NAME, faqItems, true)
         }
 
         //startCustomizationActivity()

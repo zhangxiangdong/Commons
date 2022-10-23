@@ -825,7 +825,7 @@
     <string name="other">Iné</string>
     <string name="privacy_policy">Ochrana osobných údajov</string>
     <string name="version_placeholder">Verzia %s</string>
-    <string name="hello">Ahoj :)</string>
+    <string name="hello">Ahoj ^_^</string>
     <string name="about_footer">Vyrobené so &#10084;&#65039; na Slovensku</string>
     <string name="additional_info">Dodatočné informácie</string>
     <string name="app_version">Verzia aplikácie: %s</string>
@@ -848,7 +848,7 @@
     <string name="read_it">Prečítať</string>
     <string name="read_faq">Prečítať FAQ</string>
     <string name="rate_us_prompt">Zdravím,\n\nzdá sa, že už nejaký čas používate túto aplikáciu a to si veľmi ceníme.\n\nAk Vás môžeme požiadať o láskavosť, prosím ohodnoťte nás na Google Play. Naozaj by nám to veľmi pomohlo.\n\nBez ohľadu na to, ako sa rozhodnete, túto správu už neuvidíte.\n\nVďaka!</string>
-    <string name="rate_our_app">Ohodnoťte našu aplikáciu, prosím :)</string>
+    <string name="rate_our_app">Ohodnoťte našu aplikáciu, prosím ^_^</string>
     <string name="thank_you">Ďakujeme</string>
     <string name="widget_locked_pro">Widget je uzamknutý.\nNa odomknutie prosím prejdite na Pro verziu.</string>
     <string name="features_locked">Táto funkcia je uzamknutá, prosím kúpte &lt;a href=https://play.google.com/store/apps/details?id=com.simplemobiletools.thankyou&gt;Jednoduché ďakujem&lt;/a&gt; pre odomknutie celej apky.&lt;br&gt;&lt;br&gt;Ide o jednorazovú platbu a ak nebudete spokojný, peniaze vám vrátime.</string>
@@ -1089,7 +1089,7 @@
 
     <!-- Google Play listing -->
     <string name="deprecated_app">ZASTARALÁ: Táto verzia aplikácie už nie je podporovaná. Stiahnite si Pro verziu na https://play.google.com/store/apps/details?id=com.simplemobiletools.xxx.pro</string>
-    <string name="pro_app_refund">Nezabudnite, že ak odinštalujete platenú verziu do 2 hodín, peniaze vám budú automaticky vrátené. Ak ich budete chcieť späť hocikedy neskôr, len nám dajte vedieť na hello@simplemobiletools.com. To vám zabezpečí jednoduchý spôsob na ich vyskúšanie :)</string>
+    <string name="pro_app_refund">Nezabudnite, že ak odinštalujete platenú verziu do 2 hodín, peniaze vám budú automaticky vrátené. Ak ich budete chcieť späť hocikedy neskôr, len nám dajte vedieť na hello@simplemobiletools.com. To vám zabezpečí jednoduchý spôsob na ich vyskúšanie ^_^</string>
 
     <!-- Description of our developer profile on Google Play, it can have max 140 characters -->
     <string name="developer_description">Skupina jednoduchých, open source Android apiek s nastaviteľnými widgetmi, bez reklám a nepotrebných oprávnení.</string>

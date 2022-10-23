@@ -810,7 +810,7 @@
     <string name="other">Inne</string>
     <string name="privacy_policy">Polityka prywatności</string>
     <string name="version_placeholder">Wersja %s</string>
-    <string name="hello">Cześć :)</string>
+    <string name="hello">Cześć ^_^</string>
     <string name="about_footer">Zrobione z ❤️ na Słowacji</string>
     <string name="additional_info">Dodatkowe informacje</string>
     <string name="app_version">Wersja aplikacji: %s</string>
@@ -841,7 +841,7 @@
 \nBez względu na to, jak zdecydujesz, nie zobaczysz tego komunikatu ponownie.
 \n
 \nDzięki!</string>
-    <string name="rate_our_app">Oceń naszą aplikację :)</string>
+    <string name="rate_our_app">Oceń naszą aplikację ^_^</string>
     <string name="thank_you">Dziękujemy</string>
     <string name="widget_locked_pro">Widżet jest zablokowany.\nUaktualnij do wersji Pro, aby go odblokować.</string>
     <string name="features_locked">Ta funkcja jest zablokowana. Kup &lt;a href=https://play.google.com/store/apps/details\?id=com.simplemobiletools.thankyou&gt;Proste podziękowanie&lt;/a&gt;, aby odblokować pełną wersję aplikacji.&lt;br&gt;&lt;br&gt;Jest to płatność jednorazowa, a jeśli nie będziesz zadowolony(-a), możemy Ci zwrócić pieniądze.</string>
@@ -1050,7 +1050,7 @@
     <string name="android_lame_title">AndroidLame (koder MP3)</string>
     <!-- Google Play listing -->
     <string name="deprecated_app">PRZESTARZAŁA: Ta wersja aplikacji nie jest już utrzymywana. Pobierz wersję Pro z https://play.google.com/store/apps/details\?id=com.simplemobiletools.xxx.pro</string>
-    <string name="pro_app_refund">Pamiętaj, że jeśli odinstalujesz którąkolwiek z płatnych aplikacji w ciągu 2 godzin, automatycznie otrzymasz zwrot pieniędzy. Jeśli chcesz zwrotu pieniędzy w dowolnym momencie później, wystarczy skontaktować się z nami na hello@simplemobiletools.com, a otrzymasz go. To sprawia, że aplikacje są łatwe do wypróbowania :)</string>
+    <string name="pro_app_refund">Pamiętaj, że jeśli odinstalujesz którąkolwiek z płatnych aplikacji w ciągu 2 godzin, automatycznie otrzymasz zwrot pieniędzy. Jeśli chcesz zwrotu pieniędzy w dowolnym momencie później, wystarczy skontaktować się z nami na hello@simplemobiletools.com, a otrzymasz go. To sprawia, że aplikacje są łatwe do wypróbowania ^_^</string>
     <!-- Description of our developer profile on Google Play, it can have max 140 characters -->
     <string name="developer_description">Zestaw prostych, otwartoźródłowych aplikacji na Androida z konfigurowalnymi widżetami, bez reklam i zbędnych uprawnień.</string>
 </resources>

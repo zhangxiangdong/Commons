@@ -745,7 +745,7 @@
     <string name="other">Egyéb</string>
     <string name="privacy_policy">Privacy policy</string>
     <string name="version_placeholder">Verzió: %s</string>
-    <string name="hello">Üdv :)</string>
+    <string name="hello">Üdv ^_^</string>
     <string name="about_footer">Szeretettel ❤️ készült Szlovákiában</string>
     <string name="additional_info">Kiegészítő információ</string>
     <string name="app_version">Alkalmazás verzió: %s</string>
@@ -776,7 +776,7 @@
 \nFüggetlenül attól, hogy hogyan dönt, nem fogja látni ezt az üzenetet újra.
 \n
 \nKöszönjük!</string>
-    <string name="rate_our_app">Értékelje az alkalmazásunkat! :)</string>
+    <string name="rate_our_app">Értékelje az alkalmazásunkat! ^_^</string>
     <string name="thank_you">Köszönjük</string>
     <string name="widget_locked_pro">A modul zárolt.
 \nFrissítsen a Pro verzióra a feloldásához.</string>
@@ -971,7 +971,7 @@
     <string name="android_lame_title">AndroidLame (mp3 encoder)</string>
     <!-- Google Play listing -->
     <string name="deprecated_app">ELAVULT: Az alkalmazás ezen verziója már nem fog frissülni, töltse le a Pro verziót a https://play.google.com/store/apps/details\?id=com.simplemobiletools.xxx.pro címről</string>
-    <string name="pro_app_refund">Ne felejtse el, hogy ha 2 órán belül eltávolítja a fizetős alkalmazásunkat, akkor automatikusan visszatérítjük az árát. Ha később bármikor mégis visszatérítést szeretne, lépjen kapcsolatba velünk a hello@simplemobiletools.com címen, és visszakapja. Ez is megkönnyíti a kipróbálást :)</string>
+    <string name="pro_app_refund">Ne felejtse el, hogy ha 2 órán belül eltávolítja a fizetős alkalmazásunkat, akkor automatikusan visszatérítjük az árát. Ha később bármikor mégis visszatérítést szeretne, lépjen kapcsolatba velünk a hello@simplemobiletools.com címen, és visszakapja. Ez is megkönnyíti a kipróbálást ^_^</string>
     <!-- Description of our developer profile on Google Play, it can have max 140 characters -->
     <string name="developer_description">Egyszerű, nyílt forráskódú Android-alkalmazások gyűjteménye testreszabható modulokkal, hirdetések és felesleges engedélykérések nélkül.</string>
 </resources>

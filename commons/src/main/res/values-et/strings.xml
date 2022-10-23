@@ -749,7 +749,7 @@
     <string name="other">Muud</string>
     <string name="privacy_policy">Privaatsuspoliitika</string>
     <string name="version_placeholder">Versioon %s</string>
-    <string name="hello">Hei :)</string>
+    <string name="hello">Hei ^_^</string>
     <string name="about_footer">Tehtud Slovakkias suure ❤️\'ga</string>
     <string name="additional_info">Lisateave</string>
     <string name="app_version">Rakenduse versioon: %s</string>
@@ -774,7 +774,7 @@
 \nÜkskõik, kuidas te otsustate, te ei näe seda sõnumit enam.
 \n
 \nAitäh!</string>
-    <string name="rate_our_app">Palun hinda meie rakendust :)</string>
+    <string name="rate_our_app">Palun hinda meie rakendust ^_^</string>
     <string name="thank_you">Suur tänu</string>
     <string name="widget_locked_pro">Rakendus on lukustatud.
 \nLukustuse eemaldamiseks palun uuenda ta Pro-versioonini.</string>
@@ -969,7 +969,7 @@
     <string name="android_lame_title">AndroidLame (mp3 kodeerija)</string>
     <!-- Google Play listing -->
     <string name="deprecated_app">AEGUNUD: Selle rakenduse versiooni arendus on lõppenud, laadi PRO-versioon aadressilt https://play.google.com/store/apps/details\?id=com.simplemobiletools.xxx.pro</string>
-    <string name="pro_app_refund">Palun arvesta, et kui eemaldad tasulise rakenduse nutiseadmest 2 tunni jooksul, siis ostusumma tagastatakse automaatselt. Kui soovit tagastust hiljem, siis saada e-kiri hello@simplemobiletools.com aadressile ning korraldame tagastuse. Mõlemal juhul on sul võimalik meie tasulisi rakendusi testida :)</string>
+    <string name="pro_app_refund">Palun arvesta, et kui eemaldad tasulise rakenduse nutiseadmest 2 tunni jooksul, siis ostusumma tagastatakse automaatselt. Kui soovit tagastust hiljem, siis saada e-kiri hello@simplemobiletools.com aadressile ning korraldame tagastuse. Mõlemal juhul on sul võimalik meie tasulisi rakendusi testida ^_^</string>
     <!-- Description of our developer profile on Google Play, it can have max 140 characters -->
     <string name="developer_description">Arendame Androidi jaoks avatud lähtekoodil põhinevaid lihtsaid tarvikuid ja milles pole reklaame ega vajadust asjatute õiguste jaoks.</string>
 </resources>

@@ -747,7 +747,7 @@
     <string name="other">Altres</string>
     <string name="privacy_policy">Política de privadesa</string>
     <string name="version_placeholder">Versió %s</string>
-    <string name="hello">Hola :)</string>
+    <string name="hello">Hola ^_^</string>
     <string name="about_footer">Fet amb ❤️ a Eslovàquia</string>
     <string name="additional_info">Informació addicional</string>
     <string name="app_version">Versió de l\'aplicació: %s</string>
@@ -772,7 +772,7 @@
 \nNo importa què decidiu, no tornareu a veure aquest missatge.
 \n
 \nGràcies!</string>
-    <string name="rate_our_app">Valoreu la nostra aplicació, si us plau :)</string>
+    <string name="rate_our_app">Valoreu la nostra aplicació, si us plau ^_^</string>
     <string name="thank_you">Gràcies</string>
     <string name="widget_locked_pro">El giny està bloquejat.
 \nActualitzeu a la versió Pro per desbloquejar-lo.</string>
@@ -967,7 +967,7 @@
     <string name="android_lame_title">AndroidLame (codificador «mp3»)</string>
     <!-- Google Play listing -->
     <string name="deprecated_app">OBSOLETA: Aquesta versió de l\'aplicació ja no es manté, obteniu la versió Pro a https://play.google.com/store/apps/details\?id=com.simplemobiletools.xxx.pro</string>
-    <string name="pro_app_refund">No oblideu que si desinstal·leu qualsevol aplicació de pagament en un termini de 2 hores, el càrrec es retornarà automàticament. Si voleu un reemborsament més tard, poseu-vos en contacte amb nosaltres a hello@simplemobiletools.com i el rebreu. Això fa que sigui fàcil provar-ho :)</string>
+    <string name="pro_app_refund">No oblideu que si desinstal·leu qualsevol aplicació de pagament en un termini de 2 hores, el càrrec es retornarà automàticament. Si voleu un reemborsament més tard, poseu-vos en contacte amb nosaltres a hello@simplemobiletools.com i el rebreu. Això fa que sigui fàcil provar-ho ^_^</string>
     <!-- Description of our developer profile on Google Play, it can have max 140 characters -->
     <string name="developer_description">Un grup d\'aplicacions Android simples i de codi obert amb ginys personalitzables, sense anuncis ni permisos innecessaris.</string>
 </resources>

@@ -754,7 +754,7 @@
     <string name="other">Anderes</string>
     <string name="privacy_policy">Datenschutzbestimmungen</string>
     <string name="version_placeholder">Version %s</string>
-    <string name="hello">Hallo :)</string>
+    <string name="hello">Hallo ^_^</string>
     <string name="about_footer">Gemacht mit ❤️ in der Slowakei</string>
     <string name="additional_info">Zusätzliche Infos</string>
     <string name="app_version">App-Version: %s</string>
@@ -779,7 +779,7 @@
 \nEgal wie du dich entscheidest, wirst du diese Nachricht nicht noch einmal bekommen.
 \n
 \nDanke!</string>
-    <string name="rate_our_app">Bewerte bitte unsere App :)</string>
+    <string name="rate_our_app">Bewerte bitte unsere App ^_^</string>
     <string name="thank_you">Danke</string>
     <string name="widget_locked_pro">Das Widget ist gesperrt.
 \nBitte aktualisieren Sie auf die Pro-Version, um es freizuschalten.</string>
@@ -975,7 +975,7 @@
     <string name="android_lame_title">AndroidLame (mp3-Encoder)</string>
     <!-- Google Play listing -->
     <string name="deprecated_app">Veraltet: Diese Version der App wird nicht länger unterstützt. Hole dir die Pro-Version unter https://play.google.com/store/apps/details\?id=com.simplemobiletools.xxx.pro</string>
-    <string name="pro_app_refund">Vergiss nicht, dass dir der Betrag erstattet wird, wenn du eine bezahlte App innerhalb von zwei Stunden wieder deinstallierst. Falls du später eine Rückerstattung wünschst, kontaktiere uns einfach unter hello@simplemobiletools.com, und du wirst sie bekommen. So kann man ganz einfach die App ausprobieren :)</string>
+    <string name="pro_app_refund">Vergiss nicht, dass dir der Betrag erstattet wird, wenn du eine bezahlte App innerhalb von zwei Stunden wieder deinstallierst. Falls du später eine Rückerstattung wünschst, kontaktiere uns einfach unter hello@simplemobiletools.com, und du wirst sie bekommen. So kann man ganz einfach die App ausprobieren ^_^</string>
     <!-- Description of our developer profile on Google Play, it can have max 140 characters -->
     <string name="developer_description">Eine Gruppe von einfachen, quelloffenen Android-Apps mit anpassbaren Widgets, ohne Werbung und unnötige Berechtigungen.</string>
 </resources>

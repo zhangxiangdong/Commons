@@ -753,7 +753,7 @@
     <string name="other">Други</string>
     <string name="privacy_policy">Политика за поверителност</string>
     <string name="version_placeholder">Version %s</string>
-    <string name="hello">Здравейте :)</string>
+    <string name="hello">Здравейте ^_^</string>
     <string name="about_footer">Направено с ❤️ в Словакия</string>
     <string name="additional_info">Допълнителна информация</string>
     <string name="app_version">Версия на приложението: %s</string>
@@ -778,7 +778,7 @@
 \nКаквото и да решите, няма да видите това съобщение отново.
 \n
 \nБлагодаря!</string>
-    <string name="rate_our_app">Оценете нашето приложение, моля :)</string>
+    <string name="rate_our_app">Оценете нашето приложение, моля ^_^</string>
     <string name="thank_you">Благодаря Ви</string>
     <string name="widget_locked_pro">Приспособлението е заключено.
 \nМоля, надстройте до Про версията, за да я отключите.</string>
@@ -996,7 +996,7 @@
     <string name="android_lame_title">AndroidLame (mp3 encoder)</string>
     <!-- Google Play listing -->
     <string name="deprecated_app">DEPRECATED: This version of the app is no longer maintained, get the Pro version at https://play.google.com/store/apps/details?id=com.simplemobiletools.xxx.pro</string>
-    <string name="pro_app_refund">Не забравяйте, че ако деинсталирате всяко платено приложение в рамките на 2 часа, автоматично ще бъде възстановена сумата. Ако искате възстановяване на сумата по всяко време по -късно, просто се свържете с нас на hello@simplemobiletools.com и ще го получите. Това улеснява изпробването :)</string>
+    <string name="pro_app_refund">Не забравяйте, че ако деинсталирате всяко платено приложение в рамките на 2 часа, автоматично ще бъде възстановена сумата. Ако искате възстановяване на сумата по всяко време по -късно, просто се свържете с нас на hello@simplemobiletools.com и ще го получите. Това улеснява изпробването ^_^</string>
     <!-- Description of our developer profile on Google Play, it can have max 140 characters -->
     <string name="developer_description">Група обикновени приложения с отворен код за Android с гъвкави приспособления, без реклами и ненужни разрешения.</string>
 </resources>

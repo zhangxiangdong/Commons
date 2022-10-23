@@ -880,7 +880,7 @@
     <string name="other">Other</string>
     <string name="privacy_policy">Privacy policy</string>
     <string name="version_placeholder">Version %s</string>
-    <string name="hello">Hello :)</string>
+    <string name="hello">Hello ^_^</string>
     <string name="about_footer">Made with ❤️ in Slovakia</string>
     <string name="additional_info">معلومات إضافية</string>
     <string name="app_version">إصدار التطبيق: %s</string>
@@ -903,7 +903,7 @@
     <string name="read_it">اقرأها</string>
     <string name="read_faq">إقرأ الأسئلة المتداولة</string>
     <string name="rate_us_prompt">مرحباً,\n\nيبدو أنك تستخدم هذا التطبيق لفترة طويلة بالفعل, ونحن نقدر ذلك حقاً.\n\nإذا استطعنا أن نطلب منك خدمة, فيرجى تقييمنا على Google Play. هذا سيساعدنا كثيراً \n\nوبغض النظر عن قرارك, لن تري هذه الرسالة مره أخري.\n\nشكراً!</string>
-    <string name="rate_our_app">قيم تطبيقنا من فضلك :)</string>
+    <string name="rate_our_app">قيم تطبيقنا من فضلك ^_^</string>
     <string name="thank_you">شكراً جزيلاً</string>
     <string name="widget_locked_pro">The widget is locked.\nPlease upgrade to the Pro version to unlock it.</string>
     <string name="features_locked">This feature is locked, please purchase &lt;a href=https://play.google.com/store/apps/details?id=com.simplemobiletools.thankyou&gt;Simple Thank You&lt;/a&gt; for unlocking the full app.&lt;br&gt;&lt;br&gt;It is a one time payment only and if you won\'t be satisfied, we can refund you.</string>
@@ -1124,7 +1124,7 @@
     <string name="android_lame_title">AndroidLame (mp3 encoder)</string>
     <!-- Google Play listing -->
     <string name="deprecated_app">لم يعد يجري العمل عليه: لم يعد هذا الإصدار من التطبيق يجري العمل عليه، قم بالحصول على الإصدار الـ Pro على https://play.google.com/store/apps/details?id=com.simplemobiletools.xxx.pro</string>
-    <string name="pro_app_refund">لا تنسى أنه إذا قمت بإلغاء تثبيت أي تطبيق مدفوع في غضون ساعتين ، فسيتم إسترداد أموالك تلقائياً. إذا كنت تريد إسترداد الأموال في أي وقت لاحق ، فأتصل بنا على hello@simplemobiletools.com وستحصل عليه. هذا يجعل من السهل تجربته :)</string>
+    <string name="pro_app_refund">لا تنسى أنه إذا قمت بإلغاء تثبيت أي تطبيق مدفوع في غضون ساعتين ، فسيتم إسترداد أموالك تلقائياً. إذا كنت تريد إسترداد الأموال في أي وقت لاحق ، فأتصل بنا على hello@simplemobiletools.com وستحصل عليه. هذا يجعل من السهل تجربته ^_^</string>
     <!-- Description of our developer profile on Google Play, it can have max 140 characters -->
     <string name="developer_description">مجموعة بسيطة، من تطبيقات أندرويد المفتوحة المصدر ذات الودجات القابلة للتخصيص، بدون إعلانات أو أذونات غير ضرورية.</string>
 </resources>

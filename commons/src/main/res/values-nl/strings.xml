@@ -739,7 +739,7 @@
     <string name="other">Overig</string>
     <string name="privacy_policy">Privacyverklaring</string>
     <string name="version_placeholder">Versie %s</string>
-    <string name="hello">Hallo :)</string>
+    <string name="hello">Hallo ^_^</string>
     <string name="about_footer">Met ❤️ gemaakt in Slowakije</string>
     <string name="additional_info">Extra informatie</string>
     <string name="app_version">Versie: %s</string>
@@ -770,7 +770,7 @@
 \nDit bericht wordt maar een keer getoond, ongeacht welke keuze u nu maakt.
 \n
 \nHartelijk dank!</string>
-    <string name="rate_our_app">Beoordeel onze app! :)</string>
+    <string name="rate_our_app">Beoordeel onze app! ^_^</string>
     <string name="thank_you">Bedankt!</string>
     <string name="widget_locked_pro">De widget is vergrendeld.\nUpgrade naar de Pro-versie om te ontgrendelen.</string>
     <string name="features_locked">Deze functie is vergrendeld. Overweeg het aanschaffen van &lt;a href=https://play.google.com/store/apps/details\?id=com.simplemobiletools.thankyou&gt;Eenvoudig Bedankje&lt;/a&gt; om alle functies in deze app te kunnen gebruiken.&lt;br&gt;&lt;br&gt;Dit is een eenmalige aanschaf met een niet-goed-geld-teruggarantie.</string>
@@ -981,7 +981,7 @@
     <string name="android_lame_title">AndroidLame (mp3 encoder)</string>
     <!-- Google Play listing -->
     <string name="deprecated_app">VEROUDERD: Deze versie van de app wordt niet meer onderhouden. De Pro-versie is de vinden op https://play.google.com/store/apps/details\?id=com.simplemobiletools.xxx.pro</string>
-    <string name="pro_app_refund">Bij het verwijderen van de app binnen 2 uur na aanschaf wordt het aankoopbedrag automatisch teruggestort. Wilt u op een later tijdstip een terugbetaling, neem dan contact op via hello@simplemobiletools.com en het wordt geregeld. Zodoende blijft het gemakkelijk om de app uit te proberen :)</string>
+    <string name="pro_app_refund">Bij het verwijderen van de app binnen 2 uur na aanschaf wordt het aankoopbedrag automatisch teruggestort. Wilt u op een later tijdstip een terugbetaling, neem dan contact op via hello@simplemobiletools.com en het wordt geregeld. Zodoende blijft het gemakkelijk om de app uit te proberen ^_^</string>
     <!-- Description of our developer profile on Google Play, it can have max 140 characters -->
     <string name="developer_description">Een verzameling eenvoudige open-source Android-apps met widgets, zonder advertenties en onnodige machtigingen.</string>
 </resources>

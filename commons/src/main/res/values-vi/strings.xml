@@ -791,7 +791,7 @@
     <string name="other">Other</string>
     <string name="privacy_policy">Privacy policy</string>
     <string name="version_placeholder">Version %s</string>
-    <string name="hello">Hello :)</string>
+    <string name="hello">Hello ^_^</string>
     <string name="about_footer">Made with &#10084;&#65039; in Slovakia</string>
     <string name="additional_info">Thông tin bổ sung</string>
     <string name="app_version">Phiên bản ứng dụng: %s</string>
@@ -814,7 +814,7 @@
     <string name="read_it">Hãy đọc</string>
     <string name="read_faq">Đọc Câu hỏi thường gặp(FAQ)</string>
     <string name="rate_us_prompt">Xin chào,\n\ncó vẻ như bạn đang sử dụng ứng dụng này khá lâu và chúng tôi thực sự đánh giá cao nó.\n\nNếu có thể, vui lòng đánh giá chúng tôi trên Google Play. Điều đó thực sự sẽ giúp chúng tôi rất nhiều.\n\n Bất kể bạn quyết định như thế nào, bạn sẽ không thấy thông báo này nữa.\n\nCảm ơn!</string>
-    <string name="rate_our_app">Rate our app please :)</string>
+    <string name="rate_our_app">Rate our app please ^_^</string>
     <string name="thank_you">Thank you</string>
     <string name="widget_locked_pro">The widget is locked.\nPlease upgrade to the Pro version to unlock it.</string>
     <string name="features_locked">This feature is locked, please purchase &lt;a href=https://play.google.com/store/apps/details?id=com.simplemobiletools.thankyou&gt;Simple Thank You&lt;/a&gt; for unlocking the full app.&lt;br&gt;&lt;br&gt;It is a one time payment only and if you won\'t be satisfied, we can refund you.</string>
@@ -1055,7 +1055,7 @@
 
     <!-- Google Play listing -->
     <string name="deprecated_app">THÔNG BÁO: Phiên bản của ứng dụng này không còn được duy trì, hãy tải phiên bản Pro tại https://play.google.com/store/apps/details?id=com.simplemobiletools.xxx.pro</string>
-    <string name="pro_app_refund">Đừng quên rằng nếu bạn gỡ cài đặt bất kỳ ứng dụng phải trả tiền nào trong vòng 2 giờ, bạn sẽ tự động được hoàn lại tiền. Nếu bạn muốn hoàn lại tiền bất cứ lúc nào sau đó, chỉ cần liên hệ với chúng tôi tại hello@simplemobiletools.com và bạn sẽ nhận được nó.Thật dễ dàng đúng không :)</string>
+    <string name="pro_app_refund">Đừng quên rằng nếu bạn gỡ cài đặt bất kỳ ứng dụng phải trả tiền nào trong vòng 2 giờ, bạn sẽ tự động được hoàn lại tiền. Nếu bạn muốn hoàn lại tiền bất cứ lúc nào sau đó, chỉ cần liên hệ với chúng tôi tại hello@simplemobiletools.com và bạn sẽ nhận được nó.Thật dễ dàng đúng không ^_^</string>
 
     <!-- Description of our developer profile on Google Play, it can have max 140 characters -->
     <string name="developer_description">A group of simple, open source Android apps with customizable widgets, without ads and unnecessary permissions.</string>

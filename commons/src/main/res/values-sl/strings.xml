@@ -814,7 +814,7 @@
     <string name="other">Other</string>
     <string name="privacy_policy">Privacy policy</string>
     <string name="version_placeholder">Version %s</string>
-    <string name="hello">Hello :)</string>
+    <string name="hello">Hello ^_^</string>
     <string name="about_footer">Made with ❤️ in Slovakia</string>
     <string name="additional_info">Dodatne informacije</string>
     <string name="app_version">Različica aplikacije: %s</string>
@@ -837,7 +837,7 @@
     <string name="read_it">Preberite</string>
     <string name="read_faq">Read FAQ</string>
     <string name="rate_us_prompt">Živjo,\n\nizgleda, da že nekaj časa uporabljate aplikacijo. To zares cenimo.\n\nLahko nam naredite uslugo in nas ocenite na Google Play. To bi nam res pomagalo.\n\nKakorkoli se že boste odločili, tega sporočila ne bomo več prikazovali.\n\nHvala!</string>
-    <string name="rate_our_app">Rate our app please :)</string>
+    <string name="rate_our_app">Rate our app please ^_^</string>
     <string name="thank_you">Thank you</string>
     <string name="widget_locked_pro">The widget is locked.\nPlease upgrade to the Pro version to unlock it.</string>
     <string name="features_locked">This feature is locked, please purchase &lt;a href=https://play.google.com/store/apps/details?id=com.simplemobiletools.thankyou&gt;Simple Thank You&lt;/a&gt; for unlocking the full app.&lt;br&gt;&lt;br&gt;It is a one time payment only and if you won\'t be satisfied, we can refund you.</string>
@@ -1061,7 +1061,7 @@
     <string name="android_lame_title">AndroidLame (mp3 encoder)</string>
     <!-- Google Play listing -->
     <string name="deprecated_app">ZASTARELO: Ta verzija aplikacije se ne vzdržuje več, pridobite si Pro verzijo na https://play.google.com/store/apps/details?id=com.simplemobiletools.xxx.pro</string>
-    <string name="pro_app_refund">Ne pozabite - če odstranite katerokoli plačljivo aplikacijo v dveh urah, dobite povrnjen avtomatično denar. Če želite povrnitev denarja po preteku tega časa, nas kontaktirajte na hello@simplemobiletools.com in poskrbeli bomo za to. Zaradi tega je preizkušanje aplikacije še bolj preprosto. :)</string>
+    <string name="pro_app_refund">Ne pozabite - če odstranite katerokoli plačljivo aplikacijo v dveh urah, dobite povrnjen avtomatično denar. Če želite povrnitev denarja po preteku tega časa, nas kontaktirajte na hello@simplemobiletools.com in poskrbeli bomo za to. Zaradi tega je preizkušanje aplikacije še bolj preprosto. ^_^</string>
     <!-- Description of our developer profile on Google Play, it can have max 140 characters -->
     <string name="developer_description">A group of simple, open source Android apps with customizable widgets, without ads and unnecessary permissions.</string>
 </resources>

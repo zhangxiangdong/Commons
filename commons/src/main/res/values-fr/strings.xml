@@ -782,7 +782,7 @@
     <string name="other">Autre</string>
     <string name="privacy_policy">Politique de confidentialité</string>
     <string name="version_placeholder">Version %s</string>
-    <string name="hello">Bonjour :)</string>
+    <string name="hello">Bonjour ^_^</string>
     <string name="about_footer">Fait avec ❤️ en Slovaquie</string>
     <string name="additional_info">Informations supplémentaires</string>
     <string name="app_version">Version de l\'application : %s</string>
@@ -805,7 +805,7 @@
     <string name="read_it">Consulter</string>
     <string name="read_faq">Lire la FAQ</string>
     <string name="rate_us_prompt">Bonjour,\n\nil semblerait que vous utilisez cette application depuis un certain temps et nous vous en remercions.\n\nSi nous pouvons vous demander une faveur, veuillez nous évaluer sur Google Play. Cela nous aiderait beaucoup.\n\nPeu importe le contenu de votre évaluation, vous ne verrez plus ce message.\n\nMerci d\'avance !</string>
-    <string name="rate_our_app">Merci d\'évaluer notre application :)</string>
+    <string name="rate_our_app">Merci d\'évaluer notre application ^_^</string>
     <string name="thank_you">Merci</string>
     <string name="widget_locked_pro">Le widget est verrouillé.\nVeuillez passer à la version Pro pour le déverrouiller.</string>
     <string name="features_locked">Cette fonctionnalité est verrouillée, achetez &lt;a href=https://play.google.com/store/apps/details\?id=com.simplemobiletools.thankyou&gt;Simple Thank You&lt;/a&gt; pour déverrouiller l\'application complète.&lt;br&gt;&lt;br&gt;C\'est un paiement unique et si vous n\'êtes pas satisfait·e, nous pouvons vous rembourser.</string>
@@ -1018,7 +1018,7 @@
     <string name="android_lame_title">AndroidLame (encodeur mp3)</string>
     <!-- Google Play listing -->
     <string name="deprecated_app">ATTENTION : cette version de l\'application n\'est plus maintenue. Procurez-vous la version Pro à l\'adresse https://play.google.com/store/apps/details?id=com.simplemobiletools.xxx.pro</string>
-    <string name="pro_app_refund">N\'oubliez pas que si vous désinstallez une application payante dans les 2 heures, vous serez automatiquement remboursé. Si vous souhaitez un remboursement, à tout moment, contactez-nous à hello@simplemobiletools.com et vous l\'obtiendrez. Alors n\'hésitez pas et essayez nos applications :)</string>
+    <string name="pro_app_refund">N\'oubliez pas que si vous désinstallez une application payante dans les 2 heures, vous serez automatiquement remboursé. Si vous souhaitez un remboursement, à tout moment, contactez-nous à hello@simplemobiletools.com et vous l\'obtiendrez. Alors n\'hésitez pas et essayez nos applications ^_^</string>
     <!-- Description of our developer profile on Google Play, it can have max 140 characters -->
     <string name="developer_description">Un groupe d\'applications Android open-source simples avec widgets personnalisables, sans publicité ni permission inutile.</string>
 </resources>

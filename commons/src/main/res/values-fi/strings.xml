@@ -748,7 +748,7 @@
     <string name="other">Muut</string>
     <string name="privacy_policy">Tietosuojakäytäntö</string>
     <string name="version_placeholder">Versio %s</string>
-    <string name="hello">Hei :)</string>
+    <string name="hello">Hei ^_^</string>
     <string name="about_footer">Tehty ❤️:llä Slovakiassa</string>
     <string name="additional_info">Lisätietoa</string>
     <string name="app_version">Sovelluksen versio: %s</string>
@@ -779,7 +779,7 @@
 \nHuolimatta siitä miten toimit, et nää tätä viestiä enää.
 \n
 \nKiitos!</string>
-    <string name="rate_our_app">Arvostele sovelluksemme, kiitos :)</string>
+    <string name="rate_our_app">Arvostele sovelluksemme, kiitos ^_^</string>
     <string name="thank_you">Kiitos</string>
     <string name="widget_locked_pro">Pienoissovellus on lukittu.
 \nOle hyvä ja päivitä Pro-versioon ottaaksesi sen käyttöön.</string>
@@ -981,7 +981,7 @@
     <string name="android_lame_title">AndroidLame (mp3-kooderi)</string>
     <!-- Google Play listing -->
     <string name="deprecated_app">VANHENTUNUT:: Tätä sovellusversiota ei enää ylläpidetä, hanki Pro-versio osoitteesta https://play.google.com/store/apps/details?id=com.simplemobiletools.xxx.pro</string>
-    <string name="pro_app_refund">Muista, että saat rahasi automaattisesti takaisin, jos poistat minkä tahansa maksullisista sovelluksistamme kahden tunnin sisällä asentamisesta. Jos haluat rahasi milloin vain myöhemmin takaisin, ota yhteyttä sähköpostitse hello@simplemobiletools.com ja saat rahat takaisin. Tämä tekee kokeilun helpoksi :)</string>
+    <string name="pro_app_refund">Muista, että saat rahasi automaattisesti takaisin, jos poistat minkä tahansa maksullisista sovelluksistamme kahden tunnin sisällä asentamisesta. Jos haluat rahasi milloin vain myöhemmin takaisin, ota yhteyttä sähköpostitse hello@simplemobiletools.com ja saat rahat takaisin. Tämä tekee kokeilun helpoksi ^_^</string>
     <!-- Description of our developer profile on Google Play, it can have max 140 characters -->
     <string name="developer_description">Yksinkertaisia vapaan lähdekoodin Android-sovelluksia kustomoitavilla pienoissovelluksilla, ilman mainoksia ja tarpeettomia käyttöoikeuksia.</string>
 </resources>

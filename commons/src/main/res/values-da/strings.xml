@@ -745,7 +745,7 @@
     <string name="other">Andet</string>
     <string name="privacy_policy">Politik om beskyttelse af personlige oplysninger</string>
     <string name="version_placeholder">Version %s</string>
-    <string name="hello">Hej :)</string>
+    <string name="hello">Hej ^_^</string>
     <string name="about_footer">Udviklet med ❤️ i Slovakiet</string>
     <string name="additional_info">Yderligere info</string>
     <string name="app_version">Appversion: %s</string>
@@ -768,7 +768,7 @@
     <string name="read_it">Læs det</string>
     <string name="read_faq">Read OSS</string>
     <string name="rate_us_prompt">Hej\n\nDet ser ud til at du har brugt denne app et godt stykke tid, og det er vi virkelig glade for.\n\nHvis vi til gengæld må bede om en tjeneste, vil vi sætte stor pris på din vurdering på Google Play. Det ville være en kæmpe hjælp.\n\nUanset hvad du beslutter dig for, vil du ikke se denne besked igen.\n\nPå forhånd tak!</string>
-    <string name="rate_our_app">Vurder vores app :)</string>
+    <string name="rate_our_app">Vurder vores app ^_^</string>
     <string name="thank_you">Tak skal du have</string>
     <string name="widget_locked_pro">Widget\'en er låst.
 \nOpgrader til Pro-versionen for at låse den op.</string>
@@ -993,7 +993,7 @@
     <string name="android_lame_title">AndroidLame (mp3 encoder)</string>
     <!-- Google Play listing -->
     <string name="deprecated_app">FORÆLDET: Denne version af appen vedligeholdes ikke længere, skift til Pro-versionen her https://play.google.com/store/apps/details?id=com.simplemobiletools.xxx.pro</string>
-    <string name="pro_app_refund">Husk at hvis du afinstallerer en betalt app indenfor 2 timer, får du automatisk pengene tilbage. Vil du have refunderet beløbet på et senere tidspunkt, så send en mail til hello@simplemobiletools.com . På den måde kan du prøvekøre appen uden omkostninger :)</string>
+    <string name="pro_app_refund">Husk at hvis du afinstallerer en betalt app indenfor 2 timer, får du automatisk pengene tilbage. Vil du have refunderet beløbet på et senere tidspunkt, så send en mail til hello@simplemobiletools.com . På den måde kan du prøvekøre appen uden omkostninger ^_^</string>
     <!-- Description of our developer profile on Google Play, it can have max 140 characters -->
     <string name="developer_description">En gruppe simple, open source apps til Android med widgets, der kan tilpasses, uden reklamer og unødvendige tilladelser.</string>
 </resources>

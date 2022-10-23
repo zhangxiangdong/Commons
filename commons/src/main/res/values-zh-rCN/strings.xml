@@ -705,13 +705,13 @@
     <string name="follow_us">关注我们</string>
     <string name="copyright">v %1$s
 \n版权所有 © Simple Mobile Tools %2$d</string>
-    <string name="support">支持！</string>
+    <string name="support">支持</string>
     <string name="help_us">帮助我们</string>
     <string name="social">社交网络</string>
     <string name="other">其他</string>
     <string name="privacy_policy">隐私政策</string>
     <string name="version_placeholder">版本 %s</string>
-    <string name="hello">你好 :)</string>
+    <string name="hello">你好 ^_^</string>
     <string name="about_footer">饱含 ❤️ 于斯洛伐克制作</string>
     <string name="additional_info">额外信息</string>
     <string name="app_version">应用版本：%s</string>
@@ -734,7 +734,7 @@
     <string name="read_it">阅读</string>
     <string name="read_faq">阅读常见问题</string>
     <string name="rate_us_prompt">您好，\n\n看来您使用这个应用已经有一段时间了，我们真的很感激。\n\n如果您喜欢，请在Google Play上为我们评分。这对我们很有帮助。\n\n无论您做何决定，您都不会再看到这个消息了。\n\n感谢！</string>
-    <string name="rate_our_app">请为我们的应用评分 :)</string>
+    <string name="rate_our_app">请为我们的应用评分 ^_^</string>
     <string name="thank_you">非常感谢</string>
     <string name="widget_locked_pro">小部件被锁定。
 \n请升级到专业版解锁。</string>
@@ -938,7 +938,7 @@
     <string name="android_lame_title">AndroidLame (mp3 编码器)</string>
     <!-- Google Play listing -->
     <string name="deprecated_app">已弃用：该应用版本已不再维护，请在以下链接获取专业版 https://play.google.com/store/apps/details?id=com.simplemobiletools.xxx.pro</string>
-    <string name="pro_app_refund">别忘了如果您在2小时内卸载任何付费应用将会自动退款。如果您想在之后退款，只需通过 hello@simplemobiletools.com 联系我们即可。这样您就可以放心试用了 :)</string>
+    <string name="pro_app_refund">别忘了如果您在2小时内卸载任何付费应用将会自动退款。如果您想在之后退款，只需通过 hello@simplemobiletools.com 联系我们即可。这样您就可以放心试用了 ^_^</string>
     <!-- Description of our developer profile on Google Play, it can have max 140 characters -->
     <string name="developer_description">一组简单且开源的 Android 应用程序，可自定义小部件，并且没有广告和不必要的权限。</string>
 </resources>

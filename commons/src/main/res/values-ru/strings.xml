@@ -785,7 +785,7 @@
     <string name="other">Другое</string>
     <string name="privacy_policy">Политика конфиденциальности</string>
     <string name="version_placeholder">Версия %s</string>
-    <string name="hello">Привет :)</string>
+    <string name="hello">Привет ^_^</string>
     <string name="about_footer">Сделано с ❤️ в Словакии</string>
     <string name="additional_info">Дополнительная информация</string>
     <string name="app_version">Версия приложения: %s</string>
@@ -802,7 +802,7 @@
     <string name="read_it">Прочитать</string>
     <string name="read_faq">Прочитать FAQ</string>
     <string name="rate_us_prompt">Привет,\n\nпохоже, вы уже давно используете данное приложение и мы очень ценим это.\n\nНе могли бы вы оказать нам услугу и оценить его в Google Play? Это действительно очень нам поможет.\n\nНезависимо от вашего решения данное сообщение больше не появится.\n\nСпасибо!</string>
-    <string name="rate_our_app">Оцените приложение, пожалуйста :)</string>
+    <string name="rate_our_app">Оцените приложение, пожалуйста ^_^</string>
     <string name="thank_you">Спасибо</string>
     <string name="widget_locked_pro">Виджет заблокирован.\nПерейдите на версию Pro, чтобы разблокировать его.</string>
     <string name="features_locked">Эта функция заблокирована, пожалуйста, купите &lt;a href=https://play.google.com/store/apps/details\?id=com.simplemobiletools.thankyou&gt;Простое спасибо&lt;/a&gt; для разблокировки всех возможностей приложения.&lt;br&gt;&lt;br&gt;Это разовый платёж, и если вы не будете удовлетворены, возможен возврат денег.</string>
@@ -1024,7 +1024,7 @@
     <string name="android_lame_title">AndroidLame (кодировщик в mp3)</string>
     <!-- Google Play listing -->
     <string name="deprecated_app">УСТАРЕВШЕЕ: данная версия приложения больше не поддерживается, переходите на версию Pro https://play.google.com/store/apps/details?id=com.simplemobiletools.xxx.pro</string>
-    <string name="pro_app_refund">Не забывайте, что если вы удалите любое платное приложение в течение 2 часов, вам будет автоматически возвращена сумма покупки. Если вы захотите вернуть деньги позднее, просто свяжитесь с нами по адресу hello@simplemobiletools.com и вы их получите. Так что можно легко опробовать это приложение :)</string>
+    <string name="pro_app_refund">Не забывайте, что если вы удалите любое платное приложение в течение 2 часов, вам будет автоматически возвращена сумма покупки. Если вы захотите вернуть деньги позднее, просто свяжитесь с нами по адресу hello@simplemobiletools.com и вы их получите. Так что можно легко опробовать это приложение ^_^</string>
     <!-- Description of our developer profile on Google Play, it can have max 140 characters -->
     <string name="developer_description">Группа простых приложений для Android с открытым исходным кодом с настраиваемыми виджетами без рекламы и ненужных разрешений.</string>
 </resources>

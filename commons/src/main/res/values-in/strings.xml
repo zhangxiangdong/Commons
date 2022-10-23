@@ -715,7 +715,7 @@
     <string name="other">Other</string>
     <string name="privacy_policy">Kebijakan privasi</string>
     <string name="version_placeholder">Version %s</string>
-    <string name="hello">Halo :)</string>
+    <string name="hello">Halo ^_^</string>
     <string name="about_footer">Dibuat dengan ❤️ di Slovakia</string>
     <string name="additional_info">Info tambahan</string>
     <string name="app_version">Versi aplikasi: %s</string>
@@ -746,7 +746,7 @@
 \nBagaimanapun Anda memutuskan, Anda tidak akan melihat pesan ini lagi.
 \n
 \nTerima kasih!</string>
-    <string name="rate_our_app">Tolong beri nilai aplikasi kami :)</string>
+    <string name="rate_our_app">Tolong beri nilai aplikasi kami ^_^</string>
     <string name="thank_you">Terima kasih</string>
     <string name="widget_locked_pro">Widget terkunci.
 \nHarap tingkatkan ke versi Pro untuk membukanya.</string>
@@ -957,7 +957,7 @@
     <string name="android_lame_title">AndroidLame (encoder mp3)</string>
     <!-- Google Play listing -->
     <string name="deprecated_app">TIDAK DIDUKUNG: Versi aplikasi ini tidak lagi dikembangkan, dapatkan versi Pro di https://play.google.com/store/apps/details?id=com.simplemobiletools.xxx.pro</string>
-    <string name="pro_app_refund">Jangan lupa, jika anda untuk mencopot aplikasi berbayar manapun dalam waktu 2 jam, uang anda akan otomatis dikembalikan. Jika anda ingin pengembalian dilakukan lain waktu, cukup hubungi hello@simplemobiletools.com dan anda akan mendapatkannya. Mempermudah anda untuk mencobanya terlebih dahulu. :)</string>
+    <string name="pro_app_refund">Jangan lupa, jika anda untuk mencopot aplikasi berbayar manapun dalam waktu 2 jam, uang anda akan otomatis dikembalikan. Jika anda ingin pengembalian dilakukan lain waktu, cukup hubungi hello@simplemobiletools.com dan anda akan mendapatkannya. Mempermudah anda untuk mencobanya terlebih dahulu. ^_^</string>
     <!-- Description of our developer profile on Google Play, it can have max 140 characters -->
     <string name="developer_description">Sekelompok aplikasi Android sumber terbuka sederhana dengan widget yang dapat disesuaikan, tanpa iklan dan perizinan yang tidak diperlukan.</string>
 </resources>

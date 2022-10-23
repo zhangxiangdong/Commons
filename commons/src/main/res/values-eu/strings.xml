@@ -789,7 +789,7 @@
     <string name="other">Other</string>
     <string name="privacy_policy">Privacy policy</string>
     <string name="version_placeholder">Version %s</string>
-    <string name="hello">Hello :)</string>
+    <string name="hello">Hello ^_^</string>
     <string name="about_footer">Made with &#10084;&#65039; in Slovakia</string>
     <string name="additional_info">Informazio gehigarria</string>
     <string name="app_version">Aplikazioaren bertsioa: %s</string>
@@ -812,7 +812,7 @@
     <string name="read_it">Irakurri</string>
     <string name="read_faq">Irakurri FAQ atala</string>
     <string name="rate_us_prompt">Aupa,\n\nbadirudi aplikazio hau denbora batez erabiltzen daramazula, eskerrik asko.\n\nFabore bat eskatuko dizugu: balora gaitzazu Google Play-en. Asko lagunduko liguke horrek.\n\nErabakitzen duzuna erabakitzen duzula, mezu hau ez duzu berriro ikusiko.\n\nMila esker!</string>
-    <string name="rate_our_app">Baloratu gure aplikazioa, mesedez :)</string>
+    <string name="rate_our_app">Baloratu gure aplikazioa, mesedez ^_^</string>
     <string name="thank_you">Eskerrik asko</string>
     <string name="widget_locked_pro">Trepeta blokeatuta dago.\nEguneratu Pro bertsiora desblokeatzeko.</string>
     <string name="features_locked">This feature is locked, please purchase &lt;a href=https://play.google.com/store/apps/details?id=com.simplemobiletools.thankyou&gt;Simple Thank You&lt;/a&gt; for unlocking the full app.&lt;br&gt;&lt;br&gt;It is a one time payment only and if you won\'t be satisfied, we can refund you.</string>
@@ -1053,7 +1053,7 @@
 
     <!-- Google Play listing -->
     <string name="deprecated_app">DEPRECATED: This version of the app is no longer maintained, get the Pro version at https://play.google.com/store/apps/details?id=com.simplemobiletools.xxx.pro</string>
-    <string name="pro_app_refund">Don\'t forget that if you uninstall any paid app within 2 hours, you will automatically be refunded. If you want a refund anytime later, just contact us at hello@simplemobiletools.com and you will get it. That makes it easy to try it out :)</string>
+    <string name="pro_app_refund">Don\'t forget that if you uninstall any paid app within 2 hours, you will automatically be refunded. If you want a refund anytime later, just contact us at hello@simplemobiletools.com and you will get it. That makes it easy to try it out ^_^</string>
 
     <!-- Description of our developer profile on Google Play, it can have max 140 characters -->
     <string name="developer_description">A group of simple, open source Android apps with customizable widgets, without ads and unnecessary permissions.</string>
