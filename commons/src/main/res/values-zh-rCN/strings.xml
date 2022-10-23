@@ -82,7 +82,7 @@
     <!-- View types -->
     <string name="change_view_type">更改视图类型</string>
     <string name="grid">网格</string>
-    <string name="grid_pro">网格 (Pro)</string>
+    <string name="grid_pro">网格(Pro)</string>
     <string name="uneven_grid">非均匀网格</string>
     <string name="list">列表</string>
     <string name="increase_column_count">显示更多项目</string>
@@ -106,7 +106,7 @@
     <string name="block_confirmation">您确定要将 \"%s\" 添加到黑名单吗？</string>
     <string name="block_unknown_calls">拦截来自未存储联系人的通话</string>
     <string name="block_unknown_messages">拦截来自未存储联系人的消息</string>
-    <string name="add_blocked_number_helper_text">输入号码或模式（例如 *12345*、+1*8888）以阻止来自匹配模式的号码的所有来电和消息。</string>
+    <string name="add_blocked_number_helper_text">输入号码或模式(例如 *12345*、+1*8888)以阻止来自匹配模式的号码的所有来电和消息。</string>
     <!-- Favorites -->
     <string name="favorites">收藏</string>
     <string name="add_favorites">添加收藏</string>
@@ -117,7 +117,7 @@
     <string name="type_2_characters">请输入至少两个字符来开始搜索。</string>
     <!-- Filters -->
     <string name="filter">过滤</string>
-    <string name="filter_pro">过滤 (Pro)</string>
+    <string name="filter_pro">过滤(Pro)</string>
     <string name="no_items_found">找不到任何项目。</string>
     <string name="change_filter">更改过滤器</string>
     <!-- Permissions -->
@@ -147,9 +147,9 @@
     <string name="pattern_renaming">图案</string>
     <string name="string_to_add">要添加的字符串</string>
     <string name="rename_date_time_pattern">%Y - 年\n%M - 月\n%D - 日\n%h - 时\n%m - 分\n%s - 秒\n%i - 数字从1递增</string>
-    <string name="filename_without_txt">文件名（不带 .txt）</string>
-    <string name="filename_without_json">文件名（不带 .json）</string>
-    <string name="filename_without_zip">文件名（不带 .zip）</string>
+    <string name="filename_without_txt">文件名(不带 .txt)</string>
+    <string name="filename_without_json">文件名(不带 .json)</string>
+    <string name="filename_without_zip">文件名(不带 .zip)</string>
     <string name="cannot_hide_files">从 Android 11 开始，你再也不能像这样隐藏文件和文件夹了</string>
     <!-- Copy / Move -->
     <string name="copy">复制</string>
@@ -287,7 +287,7 @@
     <string name="undo_changes_confirmation">是否撤销您的更改？</string>
     <string name="save_before_closing">您尚未保存更改，是否保存？</string>
     <string name="apply_to_all_apps">应用到所有简约系列应用</string>
-    <string name="app_icon_color_warning">警告：某些桌面应用无法正确处理自定义应用图标。如果图标消失，请尝试通过 Google Play 或某个小部件启动应用（如果有的话）。
+    <string name="app_icon_color_warning">警告：某些桌面应用无法正确处理自定义应用图标。如果图标消失，请尝试通过 Google Play 或某个小部件启动应用(如果有的话)。
 在成功启动之后，请将图标颜色设置为默认的橙色#F57C00。在最坏的情况下，您可能必须重新安装本应用。</string>
     <string name="share_colors_success">颜色更改成功。已添加名为“共享”的新主题，以后您可以使用它来更改所有应用的颜色。</string>
     <string name="shared_theme_note">注意尽管您已经使用 Pro 版本的应用，由于技术原因您仍然需要简单感谢。它用来负责颜色同步。</string>
@@ -327,10 +327,10 @@
     <string name="undo">撤销</string>
     <string name="redo">重做</string>
     <string name="print">打印</string>
-    <string name="print_pro">打印 (Pro)</string>
+    <string name="print_pro">打印(Pro)</string>
     <string name="shortcut">快捷方式</string>
     <string name="create_shortcut">创建快捷方式</string>
-    <string name="create_shortcut_pro">创建快捷方式 (Pro)</string>
+    <string name="create_shortcut_pro">创建快捷方式(Pro)</string>
     <string name="add_number_to_contact">添加号码至联系人</string>
     <string name="view_contact_details">查看联系人详情</string>
     <string name="call_from_sim_1">来自 SIM 1 的通话</string>
@@ -407,7 +407,7 @@
     <string name="protection_setup_successfully">密码设置成功。如果您不慎遗忘了，请重新安装本应用。</string>
     <string name="fingerprint_setup_successfully">指纹保护设置成功。如果出现问题，请重新安装本应用。</string>
     <string name="lock_folder">锁定文件夹</string>
-    <string name="lock_folder_pro">锁定文件夹 (Pro)</string>
+    <string name="lock_folder_pro">锁定文件夹(Pro)</string>
     <string name="unlock_folder">解锁文件夹</string>
     <string name="lock_folder_notice">此保护仅适用于此应用程序，不应取代真正的系统级文件夹加密。</string>
     <!-- Times -->
@@ -535,7 +535,7 @@
     <string name="general_settings">通用</string>
     <string name="color_customization">颜色定制</string>
     <string name="customize_colors">自定义颜色</string>
-    <string name="customize_colors_locked">自定义颜色 (锁定)</string>
+    <string name="customize_colors_locked">自定义颜色(锁定)</string>
     <string name="feature_locked">已锁定</string>
     <string name="customize_widget_colors">自定义小部件颜色</string>
     <string name="customize_notifications">自定义通知</string>
@@ -739,7 +739,7 @@
     <string name="widget_locked_pro">小部件被锁定。
 \n请升级到专业版解锁。</string>
     <string name="features_locked">此功能被锁，请购买 &lt;a href=https://play.google.com/store/apps/details\?id=com.simplemobiletools.thankyou&gt;Simple Thank You&lt;/a&gt; 解锁完整版应用。&lt;br&gt;&lt;br&gt;这是一次性付款，如果您不满意，我们可以退款给您。</string>
-    <!-- New app (do not translate anything on the 4th line) -->
+    <!-- New app(do not translate anything on the 4th line) -->
     <string name="new_app">嘿，&lt;br&gt;&lt;br&gt;我们最近发布了一些新的应用：&lt;br&gt;&lt;br&gt; &lt;a href=%1$s&gt;%2$s&lt;/a&gt;&lt;br&gt;&lt;br&gt; &lt;a href=%3$s&gt;%4$s&lt;/a&gt;&lt;br&gt;&lt;br&gt; &lt;a href=%5$s&gt;%6$s&lt;/a&gt;&lt;br&gt;&lt;br&gt; 您可以点击标题或图标来下载。&lt;br&gt;&lt;br&gt; 谢谢</string>
     <string name="simple_app_launcher">简单应用启动器</string>
     <string name="simple_calculator">简单计算器</string>
@@ -796,7 +796,7 @@
     <string name="faq_5_title_commons">我可以恢复已删除的文件吗？</string>
     <string name="faq_5_text_commons">如果您确实把它们删除了，那么您无法恢复。不过，默认情况下启用了回收站，所以文件可能被移动到回收站了而不是被删除了。</string>
     <string name="faq_6_title_commons">应用图标消失了。我该怎么办？</string>
-    <string name="faq_6_text_commons">这是因为某些桌面应用无法正确处理自定义应用图标。如果图标消失，请尝试通过 Google Play 或某个小部件启动应用（如果有的话）。
+    <string name="faq_6_text_commons">这是因为某些桌面应用无法正确处理自定义应用图标。如果图标消失，请尝试通过 Google Play 或某个小部件启动应用(如果有的话)。
 在成功启动之后，请将图标颜色设置为默认的橙色#F57C00。在最坏的情况下，您可能必须重新安装本应用。</string>
     <string name="faq_7_title_commons">我已付费，但我无法下载这个应用，我该怎么办？</string>
     <string name="faq_7_text_commons">支付完全是由Google处理的，他们的系统有时会发生故障。您可以在清除Google Play的应用数据之后，重启设备并再次尝试下载。</string>
@@ -858,10 +858,10 @@
     <string name="translation_turkish">Turkish</string>
     <string name="translation_ukrainian">Ukrainian</string>
     <string name="translation_vietnamese">Vietnamese</string>
-    <string name="translation_chinese_hk">Chinese (Hong Kong)</string>
-    <string name="translation_chinese_cn">Chinese (Simplified)</string>
-    <string name="translation_chinese_tw">Chinese (Traditional)</string>
-    <!-- Pro comparison (shown in the deprecated free apps) -->
+    <string name="translation_chinese_hk">Chinese(Hong Kong)</string>
+    <string name="translation_chinese_cn">Chinese(Simplified)</string>
+    <string name="translation_chinese_tw">Chinese(Traditional)</string>
+    <!-- Pro comparison(shown in the deprecated free apps) -->
     <string name="why_upgrade">立即获取专业版！</string>
     <string name="why_upgrade_basic_version">基础版</string>
     <string name="why_upgrade_pro_version">专业版</string>
@@ -904,38 +904,38 @@
     <!-- License -->
     <string name="notice">此应用使用了以下三方库。致谢。</string>
     <string name="third_party_licences">第三方许可证</string>
-    <string name="kotlin_title">Kotlin (编程语言)</string>
-    <string name="subsampling_title">子采样比例图像视图 (可缩放的图像视图)</string>
-    <string name="glide_title">Glide（图片加载和缓存）</string>
-    <string name="picasso_title">Picasso (图片加载和缓存)</string>
+    <string name="kotlin_title">Kotlin(编程语言)</string>
+    <string name="subsampling_title">子采样比例图像视图(可缩放的图像视图)</string>
+    <string name="glide_title">Glide(图片加载和缓存)</string>
+    <string name="picasso_title">Picasso(图片加载和缓存)</string>
     <string name="cropper_title">安卓图像剪裁器(图像裁剪和旋转)</string>
-    <string name="rtl_viewpager_title">RtlViewPager (从右向左滑动)</string>
-    <string name="joda_title">Joda-Time (Java日期替换)</string>
-    <string name="stetho_title">Stetho (调试数据库)</string>
-    <string name="otto_title">Otto (事件总线)</string>
-    <string name="photoview_title">PhotoView (可缩放 GIFs)</string>
-    <string name="pattern_title">PatternLockView (模式保护)</string>
-    <string name="reprint_title">Reprint (指纹保护)</string>
-    <string name="gif_drawable_title">Gif Drawable (加载 GIFs)</string>
-    <string name="autofittextview_title">AutoFitTextView (调整文本大小)</string>
-    <string name="robolectric_title">Robolectric (测试框架)</string>
-    <string name="espresso_title">Espresso (测试助手)</string>
-    <string name="gson_title">Gson (JSON 解析器)</string>
-    <string name="leak_canary_title">Leak Canary (内存泄漏检测器)</string>
-    <string name="number_picker_title">Number Picker (可定制的号码选择器)</string>
-    <string name="exoplayer_title">ExoPlayer (视频播放器)</string>
-    <string name="panorama_view_title">VR Panorama View (显示全景)</string>
-    <string name="sanselan_title">Apache Sanselan (读取图像元数据)</string>
-    <string name="filters_title">Android Photo Filters (图像滤镜)</string>
-    <string name="gesture_views_title">Gesture Views (可缩放的图像)</string>
-    <string name="indicator_fast_scroll_title">Indicator Fast Scroll (滚动条上的字母)</string>
-    <string name="event_bus_title">Event Bus (应用程序内通信)</string>
-    <string name="audio_record_view_title">Audio Record View (音频可视化)</string>
-    <string name="sms_mms_title">SMS MMS (短信和彩信处理)</string>
-    <string name="apng_title">APNG Android (动画 WebP 支持)</string>
-    <string name="pdf_viewer_title">Android PdfViewer (PDF 查看器)</string>
-    <string name="m3u_parser_title">M3U 解析器 (m3u 播放列表文件处理)</string>
-    <string name="android_lame_title">AndroidLame (mp3 编码器)</string>
+    <string name="rtl_viewpager_title">RtlViewPager(从右向左滑动)</string>
+    <string name="joda_title">Joda-Time(Java日期替换)</string>
+    <string name="stetho_title">Stetho(调试数据库)</string>
+    <string name="otto_title">Otto(事件总线)</string>
+    <string name="photoview_title">PhotoView(可缩放 GIFs)</string>
+    <string name="pattern_title">PatternLockView(模式保护)</string>
+    <string name="reprint_title">Reprint(指纹保护)</string>
+    <string name="gif_drawable_title">Gif Drawable(加载 GIFs)</string>
+    <string name="autofittextview_title">AutoFitTextView(调整文本大小)</string>
+    <string name="robolectric_title">Robolectric(测试框架)</string>
+    <string name="espresso_title">Espresso(测试助手)</string>
+    <string name="gson_title">Gson(JSON 解析器)</string>
+    <string name="leak_canary_title">Leak Canary(内存泄漏检测器)</string>
+    <string name="number_picker_title">Number Picker(可定制的号码选择器)</string>
+    <string name="exoplayer_title">ExoPlayer(视频播放器)</string>
+    <string name="panorama_view_title">VR Panorama View(显示全景)</string>
+    <string name="sanselan_title">Apache Sanselan(读取图像元数据)</string>
+    <string name="filters_title">Android Photo Filters(图像滤镜)</string>
+    <string name="gesture_views_title">Gesture Views(可缩放的图像)</string>
+    <string name="indicator_fast_scroll_title">Indicator Fast Scroll(滚动条上的字母)</string>
+    <string name="event_bus_title">Event Bus(应用程序内通信)</string>
+    <string name="audio_record_view_title">Audio Record View(音频可视化)</string>
+    <string name="sms_mms_title">SMS MMS(短信和彩信处理)</string>
+    <string name="apng_title">APNG Android(动画 WebP 支持)</string>
+    <string name="pdf_viewer_title">Android PdfViewer(PDF 查看器)</string>
+    <string name="m3u_parser_title">M3U 解析器(m3u 播放列表文件处理)</string>
+    <string name="android_lame_title">AndroidLame(mp3 编码器)</string>
     <!-- Google Play listing -->
     <string name="deprecated_app">已弃用：该应用版本已不再维护，请在以下链接获取专业版 https://play.google.com/store/apps/details?id=com.simplemobiletools.xxx.pro</string>
     <string name="pro_app_refund">别忘了如果您在2小时内卸载任何付费应用将会自动退款。如果您想在之后退款，只需通过 hello@simplemobiletools.com 联系我们即可。这样您就可以放心试用了 ^_^</string>

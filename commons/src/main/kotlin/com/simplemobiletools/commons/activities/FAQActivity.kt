@@ -1,10 +1,10 @@
 package com.simplemobiletools.commons.activities
 
+import android.annotation.SuppressLint
 import android.os.Bundle
 import android.text.Html
 import android.text.method.LinkMovementMethod
 import android.view.LayoutInflater
-import android.widget.LinearLayout
 import com.simplemobiletools.commons.R
 import com.simplemobiletools.commons.extensions.*
 import com.simplemobiletools.commons.helpers.APP_FAQ
@@ -20,27 +20,26 @@ class FAQActivity : BaseSimpleActivity() {
 
     override fun getAppLauncherName() = intent.getStringExtra(APP_LAUNCHER_NAME) ?: ""
 
+    @SuppressLint("InflateParams")
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_faq)
 
-        val dividerMargin = resources.getDimension(R.dimen.medium_margin).toInt()
         val titleColor = getProperPrimaryColor()
-        val backgroundColor = getProperBackgroundColor()
         val textColor = getProperTextColor()
 
         val inflater = LayoutInflater.from(this)
-        val faqItems = intent.getSerializableExtra(APP_FAQ) as ArrayList<FAQItem>
+        @Suppress("UNCHECKED_CAST", "DEPRECATION") val faqItems = intent.getSerializableExtra(APP_FAQ) as ArrayList<FAQItem>
         faqItems.forEach {
             val faqItem = it
             inflater.inflate(R.layout.item_faq, null).apply {
-                background.applyColorFilter(backgroundColor.getContrastColor())
                 faq_title.apply {
                     text = if (faqItem.title is Int) getString(faqItem.title) else faqItem.title as String
                     setTextColor(titleColor)
                 }
 
                 faq_text.apply {
+                    @Suppress("DEPRECATION")
                     text = if (faqItem.text is Int) Html.fromHtml(getString(faqItem.text)) else faqItem.text as String
                     setTextColor(textColor)
                     setLinkTextColor(titleColor)
@@ -49,7 +48,6 @@ class FAQActivity : BaseSimpleActivity() {
                     removeUnderlines()
                 }
                 faq_holder.addView(this)
-                (layoutParams as LinearLayout.LayoutParams).bottomMargin = dividerMargin
             }
         }
     }

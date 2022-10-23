@@ -5,7 +5,6 @@ import android.content.Intent
 import android.content.Intent.*
 import android.os.Build
 import android.os.Bundle
-import android.os.Handler
 import androidx.core.net.toUri
 import com.simplemobiletools.commons.R
 import com.simplemobiletools.commons.dialogs.ConfirmationAdvancedDialog
@@ -16,13 +15,17 @@ import com.simplemobiletools.commons.models.FAQItem
 import kotlinx.android.synthetic.main.activity_about.*
 
 class AboutActivity : BaseSimpleActivity() {
+
+    companion object {
+        private const val EASTER_EGG_TIME_LIMIT = 3000L
+        private const val EASTER_EGG_REQUIRED_CLICKS = 7
+    }
+
     private var appName = ""
     private var primaryColor = 0
 
     private var firstVersionClickTS = 0L
     private var clicksSinceFirstClick = 0
-    private val EASTER_EGG_TIME_LIMIT = 3000L
-    private val EASTER_EGG_REQUIRED_CLICKS = 7
 
     override fun getAppIconIDs() = intent.getIntegerArrayListExtra(APP_ICON_IDS) ?: ArrayList()
 
@@ -33,13 +36,11 @@ class AboutActivity : BaseSimpleActivity() {
         setContentView(R.layout.activity_about)
         appName = intent.getStringExtra(APP_NAME) ?: ""
         val textColor = getProperTextColor()
-        val backgroundColor = getProperBackgroundColor()
         primaryColor = getProperPrimaryColor()
 
         arrayOf(
             about_faq_icon,
             about_rate_us_icon,
-            about_donate_icon,
             about_invite_icon,
             about_more_apps_icon,
             about_email_icon,
@@ -70,7 +71,7 @@ class AboutActivity : BaseSimpleActivity() {
     }
 
     private fun setupFAQ() {
-        val faqItems = intent.getSerializableExtra(APP_FAQ) as ArrayList<FAQItem>
+        @Suppress("UNCHECKED_CAST", "DEPRECATION") val faqItems = intent.getSerializableExtra(APP_FAQ) as ArrayList<FAQItem>
         about_faq_holder.beVisibleIf(faqItems.isNotEmpty())
         about_faq_holder.setOnClickListener {
             Intent(applicationContext, FAQActivity::class.java).apply {
@@ -203,7 +204,7 @@ class AboutActivity : BaseSimpleActivity() {
         about_version_holder.setOnClickListener {
             if (firstVersionClickTS == 0L) {
                 firstVersionClickTS = System.currentTimeMillis()
-                Handler().postDelayed({
+                about_version.postDelayed({
                     firstVersionClickTS = 0L
                     clicksSinceFirstClick = 0
                 }, EASTER_EGG_TIME_LIMIT)
@@ -217,4 +218,5 @@ class AboutActivity : BaseSimpleActivity() {
             }
         }
     }
+
 }

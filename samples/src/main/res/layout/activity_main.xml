@@ -43,6 +43,12 @@
                 android:layout_height="match_parent"
                 android:text="@string/about" />
 
+            <Button
+                android:id="@+id/settings"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="@string/settings" />
+
         </LinearLayout>
 
     </androidx.core.widget.NestedScrollView>

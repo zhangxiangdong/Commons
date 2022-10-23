@@ -1,5 +1,6 @@
 package com.simplemobiletools.commons.samples.activities
 
+import android.content.Intent
 import android.os.Bundle
 import com.simplemobiletools.commons.activities.BaseSimpleActivity
 import com.simplemobiletools.commons.extensions.appLaunched
@@ -34,6 +35,10 @@ class MainActivity : BaseSimpleActivity() {
                 FAQItem(R.string.faq_9_title_commons, R.string.faq_9_text_commons)
             )
             startAboutActivity(R.string.smtco_app_name, licenses, BuildConfig.VERSION_NAME, faqItems, true)
+        }
+
+        settings.setOnClickListener {
+            startActivity(Intent(this, SettingsActivity::class.java))
         }
 
         //startCustomizationActivity()

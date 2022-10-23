@@ -1,27 +1,27 @@
 package com.simplemobiletools.commons.activities
 
+import android.annotation.SuppressLint
 import android.os.Bundle
 import android.view.LayoutInflater
-import android.widget.LinearLayout
 import com.simplemobiletools.commons.R
 import com.simplemobiletools.commons.extensions.*
 import com.simplemobiletools.commons.helpers.*
 import com.simplemobiletools.commons.models.License
 import kotlinx.android.synthetic.main.activity_license.*
 import kotlinx.android.synthetic.main.item_license.view.*
+import java.util.*
 
 class LicenseActivity : BaseSimpleActivity() {
     override fun getAppIconIDs() = intent.getIntegerArrayListExtra(APP_ICON_IDS) ?: ArrayList()
 
     override fun getAppLauncherName() = intent.getStringExtra(APP_LAUNCHER_NAME) ?: ""
 
+    @SuppressLint("InflateParams")
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_license)
 
-        val dividerMargin = resources.getDimension(R.dimen.medium_margin).toInt()
         val textColor = getProperTextColor()
-        val backgroundColor = getProperBackgroundColor()
         val primaryColor = getProperPrimaryColor()
 
         updateTextColors(licenses_holder)
@@ -32,7 +32,6 @@ class LicenseActivity : BaseSimpleActivity() {
         licenses.filter { licenseMask and it.id != 0L }.forEach {
             val license = it
             inflater.inflate(R.layout.item_license, null).apply {
-                background.applyColorFilter(backgroundColor.getContrastColor())
                 license_title.apply {
                     text = getString(license.titleId)
                     setTextColor(primaryColor)
@@ -47,7 +46,6 @@ class LicenseActivity : BaseSimpleActivity() {
                 }
 
                 licenses_holder.addView(this)
-                (layoutParams as LinearLayout.LayoutParams).bottomMargin = dividerMargin
             }
         }
     }

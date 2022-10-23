@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/about_coordinator"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:orientation="vertical">
 
     <com.google.android.material.appbar.AppBarLayout
         android:id="@+id/about_app_bar_layout"
@@ -22,7 +23,7 @@
 
     </com.google.android.material.appbar.AppBarLayout>
 
-    <androidx.core.widget.NestedScrollView
+    <ScrollView
         android:id="@+id/about_nested_scrollview"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
@@ -35,37 +36,34 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="vertical"
-            android:padding="16dp">
+            android:padding="@dimen/activity_margin">
 
             <TextView
                 android:id="@+id/about_support"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="@dimen/activity_margin"
                 android:gravity="center_horizontal"
                 android:text="@string/support"
-                android:textSize="@dimen/big_text_size" />
+                android:textSize="@dimen/smaller_text_size" />
 
             <LinearLayout
                 android:id="@+id/about_support_holder"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_margin="@dimen/medium_margin"
                 android:orientation="vertical">
 
                 <RelativeLayout
                     android:id="@+id/about_faq_holder"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:background="@drawable/ripple_background"
-                    android:padding="@dimen/medium_margin">
+                    android:background="@drawable/ripple_background">
 
                     <ImageView
                         android:id="@+id/about_faq_icon"
                         android:layout_width="@dimen/normal_icon_size"
                         android:layout_height="@dimen/normal_icon_size"
                         android:contentDescription="@null"
-                        android:padding="@dimen/medium_margin"
+                        android:padding="@dimen/normal_margin"
                         android:src="@drawable/ic_question_mark_vector" />
 
                     <com.simplemobiletools.commons.views.MyTextView
@@ -74,8 +72,6 @@
                         android:layout_height="match_parent"
                         android:layout_alignTop="@+id/about_faq_icon"
                         android:layout_alignBottom="@+id/about_faq_icon"
-                        android:layout_marginStart="@dimen/normal_margin"
-                        android:layout_marginEnd="@dimen/normal_margin"
                         android:layout_toEndOf="@+id/about_faq_icon"
                         android:gravity="center_vertical"
                         android:text="@string/frequently_asked_questions"
@@ -87,15 +83,14 @@
                     android:id="@+id/about_email_holder"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:background="@drawable/ripple_background"
-                    android:padding="@dimen/medium_margin">
+                    android:background="@drawable/ripple_background">
 
                     <ImageView
                         android:id="@+id/about_email_icon"
                         android:layout_width="@dimen/normal_icon_size"
                         android:layout_height="@dimen/normal_icon_size"
                         android:contentDescription="@null"
-                        android:padding="@dimen/medium_margin"
+                        android:padding="@dimen/normal_margin"
                         android:src="@drawable/ic_mail_vector" />
 
                     <com.simplemobiletools.commons.views.MyTextView
@@ -104,8 +99,6 @@
                         android:layout_height="match_parent"
                         android:layout_alignTop="@+id/about_email_icon"
                         android:layout_alignBottom="@+id/about_email_icon"
-                        android:layout_marginStart="@dimen/normal_margin"
-                        android:layout_marginEnd="@dimen/normal_margin"
                         android:layout_toEndOf="@+id/about_email_icon"
                         android:gravity="center_vertical"
                         android:text="@string/my_email"
@@ -122,28 +115,26 @@
                 android:layout_marginTop="@dimen/activity_margin"
                 android:gravity="center_horizontal"
                 android:text="@string/help_us"
-                android:textSize="@dimen/big_text_size" />
+                android:textSize="@dimen/smaller_text_size" />
 
             <LinearLayout
                 android:id="@+id/about_help_us_holder"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_margin="@dimen/medium_margin"
                 android:orientation="vertical">
 
                 <RelativeLayout
                     android:id="@+id/about_rate_us_holder"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:background="@drawable/ripple_background"
-                    android:padding="@dimen/medium_margin">
+                    android:background="@drawable/ripple_background">
 
                     <ImageView
                         android:id="@+id/about_rate_us_icon"
                         android:layout_width="@dimen/normal_icon_size"
                         android:layout_height="@dimen/normal_icon_size"
                         android:contentDescription="@null"
-                        android:padding="@dimen/medium_margin"
+                        android:padding="@dimen/normal_margin"
                         android:src="@drawable/ic_star_vector" />
 
                     <com.simplemobiletools.commons.views.MyTextView
@@ -152,8 +143,6 @@
                         android:layout_height="match_parent"
                         android:layout_alignTop="@+id/about_rate_us_icon"
                         android:layout_alignBottom="@+id/about_rate_us_icon"
-                        android:layout_marginStart="@dimen/normal_margin"
-                        android:layout_marginEnd="@dimen/normal_margin"
                         android:layout_toEndOf="@+id/about_rate_us_icon"
                         android:gravity="center_vertical"
                         android:text="@string/rate_us"
@@ -165,15 +154,14 @@
                     android:id="@+id/about_invite_holder"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:background="@drawable/ripple_background"
-                    android:padding="@dimen/medium_margin">
+                    android:background="@drawable/ripple_background">
 
                     <ImageView
                         android:id="@+id/about_invite_icon"
                         android:layout_width="@dimen/normal_icon_size"
                         android:layout_height="@dimen/normal_icon_size"
                         android:contentDescription="@null"
-                        android:padding="@dimen/medium_margin"
+                        android:padding="@dimen/normal_margin"
                         android:src="@drawable/ic_add_person_vector" />
 
                     <com.simplemobiletools.commons.views.MyTextView
@@ -182,42 +170,9 @@
                         android:layout_height="match_parent"
                         android:layout_alignTop="@+id/about_invite_icon"
                         android:layout_alignBottom="@+id/about_invite_icon"
-                        android:layout_marginStart="@dimen/normal_margin"
-                        android:layout_marginEnd="@dimen/normal_margin"
                         android:layout_toEndOf="@+id/about_invite_icon"
                         android:gravity="center_vertical"
                         android:text="@string/invite_friends"
-                        android:textSize="@dimen/bigger_text_size" />
-
-                </RelativeLayout>
-
-                <RelativeLayout
-                    android:id="@+id/about_donate_holder"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:background="@drawable/ripple_background"
-                    android:padding="@dimen/medium_margin"
-                    android:visibility="gone">
-
-                    <ImageView
-                        android:id="@+id/about_donate_icon"
-                        android:layout_width="@dimen/normal_icon_size"
-                        android:layout_height="@dimen/normal_icon_size"
-                        android:contentDescription="@null"
-                        android:padding="@dimen/medium_margin"
-                        android:src="@drawable/ic_dollar_vector" />
-
-                    <com.simplemobiletools.commons.views.MyTextView
-                        android:id="@+id/about_donate"
-                        android:layout_width="match_parent"
-                        android:layout_height="match_parent"
-                        android:layout_alignTop="@+id/about_donate_icon"
-                        android:layout_alignBottom="@+id/about_donate_icon"
-                        android:layout_marginStart="@dimen/normal_margin"
-                        android:layout_marginEnd="@dimen/normal_margin"
-                        android:layout_toEndOf="@+id/about_donate_icon"
-                        android:gravity="center_vertical"
-                        android:text="@string/donate"
                         android:textSize="@dimen/bigger_text_size" />
 
                 </RelativeLayout>
@@ -231,7 +186,7 @@
                 android:layout_marginTop="@dimen/activity_margin"
                 android:gravity="center_horizontal"
                 android:text="@string/social"
-                android:textSize="@dimen/big_text_size"
+                android:textSize="@dimen/smaller_text_size"
                 android:visibility="gone"
                 tools:visibility="visible" />
 
@@ -239,7 +194,6 @@
                 android:id="@+id/about_social_holder"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_margin="@dimen/medium_margin"
                 android:orientation="vertical"
                 android:visibility="gone"
                 tools:visibility="visible">
@@ -249,14 +203,14 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:background="@drawable/ripple_background"
-                    android:padding="@dimen/medium_margin">
+                    tools:ignore="UselessParent">
 
                     <ImageView
                         android:id="@+id/about_telegram_icon"
                         android:layout_width="@dimen/normal_icon_size"
                         android:layout_height="@dimen/normal_icon_size"
                         android:contentDescription="@null"
-                        android:padding="@dimen/medium_margin"
+                        android:padding="@dimen/normal_margin"
                         android:src="@drawable/ic_telegram_vector" />
 
                     <com.simplemobiletools.commons.views.MyTextView
@@ -265,8 +219,6 @@
                         android:layout_height="match_parent"
                         android:layout_alignTop="@+id/about_telegram_icon"
                         android:layout_alignBottom="@+id/about_telegram_icon"
-                        android:layout_marginStart="@dimen/normal_margin"
-                        android:layout_marginEnd="@dimen/normal_margin"
                         android:layout_toEndOf="@+id/about_telegram_icon"
                         android:gravity="center_vertical"
                         android:text="@string/telegram"
@@ -283,13 +235,12 @@
                 android:layout_marginTop="@dimen/activity_margin"
                 android:gravity="center_horizontal"
                 android:text="@string/other"
-                android:textSize="@dimen/big_text_size" />
+                android:textSize="@dimen/smaller_text_size" />
 
             <LinearLayout
                 android:id="@+id/about_other_holder"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_margin="@dimen/medium_margin"
                 android:orientation="vertical">
 
                 <RelativeLayout
@@ -297,7 +248,6 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:background="@drawable/ripple_background"
-                    android:padding="@dimen/medium_margin"
                     android:visibility="gone"
                     tools:visibility="visible">
 
@@ -306,7 +256,7 @@
                         android:layout_width="@dimen/normal_icon_size"
                         android:layout_height="@dimen/normal_icon_size"
                         android:contentDescription="@null"
-                        android:padding="@dimen/medium_margin"
+                        android:padding="@dimen/normal_margin"
                         android:src="@drawable/ic_heart_vector" />
 
                     <com.simplemobiletools.commons.views.MyTextView
@@ -315,8 +265,6 @@
                         android:layout_height="match_parent"
                         android:layout_alignTop="@+id/about_more_apps_icon"
                         android:layout_alignBottom="@+id/about_more_apps_icon"
-                        android:layout_marginStart="@dimen/normal_margin"
-                        android:layout_marginEnd="@dimen/normal_margin"
                         android:layout_toEndOf="@+id/about_more_apps_icon"
                         android:gravity="center_vertical"
                         android:text="@string/more_apps_from_us"
@@ -328,15 +276,14 @@
                     android:id="@+id/about_licenses_holder"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:background="@drawable/ripple_background"
-                    android:padding="@dimen/medium_margin">
+                    android:background="@drawable/ripple_background">
 
                     <ImageView
                         android:id="@+id/about_licenses_icon"
                         android:layout_width="@dimen/normal_icon_size"
                         android:layout_height="@dimen/normal_icon_size"
                         android:contentDescription="@null"
-                        android:padding="@dimen/medium_margin"
+                        android:padding="@dimen/normal_margin"
                         android:src="@drawable/ic_article_vector" />
 
                     <com.simplemobiletools.commons.views.MyTextView
@@ -345,8 +292,6 @@
                         android:layout_height="match_parent"
                         android:layout_alignTop="@+id/about_licenses_icon"
                         android:layout_alignBottom="@+id/about_licenses_icon"
-                        android:layout_marginStart="@dimen/normal_margin"
-                        android:layout_marginEnd="@dimen/normal_margin"
                         android:layout_toEndOf="@+id/about_licenses_icon"
                         android:gravity="center_vertical"
                         android:text="@string/third_party_licences"
@@ -358,15 +303,14 @@
                     android:id="@+id/about_version_holder"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:background="@drawable/ripple_background"
-                    android:padding="@dimen/medium_margin">
+                    android:background="@drawable/ripple_background">
 
                     <ImageView
                         android:id="@+id/about_version_icon"
                         android:layout_width="@dimen/normal_icon_size"
                         android:layout_height="@dimen/normal_icon_size"
                         android:contentDescription="@null"
-                        android:padding="@dimen/medium_margin"
+                        android:padding="@dimen/normal_margin"
                         android:src="@drawable/ic_info_vector" />
 
                     <com.simplemobiletools.commons.views.MyTextView
@@ -375,8 +319,6 @@
                         android:layout_height="match_parent"
                         android:layout_alignTop="@+id/about_version_icon"
                         android:layout_alignBottom="@+id/about_version_icon"
-                        android:layout_marginStart="@dimen/normal_margin"
-                        android:layout_marginEnd="@dimen/normal_margin"
                         android:layout_toEndOf="@+id/about_version_icon"
                         android:gravity="center_vertical"
                         android:textSize="@dimen/bigger_text_size"
@@ -388,6 +330,6 @@
 
         </LinearLayout>
 
-    </androidx.core.widget.NestedScrollView>
+    </ScrollView>
 
-</androidx.coordinatorlayout.widget.CoordinatorLayout>
+</LinearLayout>
