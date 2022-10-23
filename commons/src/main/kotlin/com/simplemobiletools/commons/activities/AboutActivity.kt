@@ -124,10 +124,6 @@ class AboutActivity : BaseSimpleActivity() {
     }
 
     private fun setupRateUs() {
-        if (resources.getBoolean(R.bool.hide_google_relations)) {
-            about_rate_us_holder.beGone()
-        }
-
         about_rate_us_holder.setOnClickListener {
             if (baseConfig.wasBeforeRateShown) {
                 if (baseConfig.wasAppRated) {
