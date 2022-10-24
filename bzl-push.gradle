@@ -13,7 +13,7 @@ afterEvaluate {
                 from components.debug
 
                 groupId = 'com.github.zhangxiangdong'
-                artifactId = 'Commons'
+                artifactId = 'commons'
                 version = getVersionString()
             }
         }
