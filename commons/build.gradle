@@ -27,6 +27,12 @@ android {
     sourceSets {
         main.java.srcDirs += 'src/main/kotlin'
     }
+
+    publishing {
+        singleVariant('debug') {
+            withSourcesJar()
+        }
+    }
 }
 
 dependencies {
