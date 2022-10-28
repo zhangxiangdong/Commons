@@ -214,7 +214,7 @@ class Breadcrumbs(context: Context, attrs: AttributeSet) : HorizontalScrollView(
             inflater.inflate(R.layout.item_breadcrumb, itemsLayout, false).apply {
                 var textToAdd = item.name
                 if (addPrefix) {
-                    textToAdd = "> $textToAdd"
+                    textToAdd = "/ $textToAdd"
                 }
 
                 isActivated = item.path.trimEnd('/') == lastPath.trimEnd('/')
