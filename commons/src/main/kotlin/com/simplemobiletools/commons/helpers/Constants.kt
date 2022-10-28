@@ -302,8 +302,8 @@ const val TAB_CONTACTS = 1
 const val TAB_FAVORITES = 2
 const val TAB_CALL_HISTORY = 4
 const val TAB_GROUPS = 8
-const val TAB_FILES = 16
-const val TAB_RECENT_FILES = 32
+const val TAB_RECENT_FILES = 16
+const val TAB_FILES = 32
 const val TAB_STORAGE_ANALYSIS = 64
 
 val photoExtensions: Array<String> get() = arrayOf(".jpg", ".png", ".jpeg", ".bmp", ".webp", ".heic", ".heif", ".apng", ".avif")
